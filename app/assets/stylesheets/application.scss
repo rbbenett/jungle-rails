@@ -3,12 +3,24 @@
 @import "bootstrap";
 @import "font-awesome";
 
+
 // App
 @import "products";
 
 // Global
 body {
-  padding-top: 70px;
+  
+}
+
+header.user {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #f8f8f8;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  border-color: #e7e7e7;
 }
 
 // Bootstrap adjustments

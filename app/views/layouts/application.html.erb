@@ -7,6 +7,16 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <header class="user">
+  <div class="container">
+    <% if current_user %>
+      Hi <strong><%= current_user.name %>!</strong> | <%= link_to "Logout", '/logout' %>
+    <% else %>
+      <%= link_to 'Login', '/login' %> | <%= link_to 'Signup', '/signup' %>
+    <% end %>
+    </div>
+  </header>
+
 
   <%= render 'layouts/top_nav' %>
 
