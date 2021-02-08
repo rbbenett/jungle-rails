@@ -21,7 +21,7 @@ RSpec.describe Product, type: :model do
         quantity: 1, 
         category_id: @category.id
       )
-      expect(product).to (be_invalid)
+      expect(product).to_not (be_valid)
     end
 
     it "should not save if no price is present" do
@@ -32,7 +32,7 @@ RSpec.describe Product, type: :model do
         quantity: 30,
         category_id: @category.id
       )
-      expect(product).to (be_invalid)
+      expect(product).to_not (be_valid)
     end
 
     it "should not save if no quantity is present" do
@@ -43,7 +43,7 @@ RSpec.describe Product, type: :model do
         quantity: nil,
         category_id: @category.id
       )
-      expect(product).to (be_invalid)
+      expect(product).to_not (be_valid)
     end
 
     it "should not save if no category id is present" do
@@ -54,7 +54,7 @@ RSpec.describe Product, type: :model do
         quantity: 15,
         category_id: nil
       )
-      expect(product).to (be_invalid)
+      expect(product).to_not (be_valid)
     end
   end
 end
