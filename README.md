@@ -1,4 +1,4 @@
-# Jungle
+<h1 align="center"> Jungle</h1>
 
 <p align="center">:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</p>
 
