@@ -79,6 +79,16 @@ ActiveRecord::Schema.define(version: 20210208182427) do
     t.datetime "updated_at",      null: false
   end
 
+  create_table "reviews", force: :cascade do |t|
+    t.integer  "product_id"
+    t.integer  "user_id"
+    t.text     "description"
+    t.integer  "rating"
+    t.datetime "created_at",  null: false
+    t.datetime "update_at"
+    t.datetime "updated_at",  null: false
+  end
+
   add_foreign_key "line_items", "orders"
   add_foreign_key "line_items", "products"
   add_foreign_key "products", "categories"

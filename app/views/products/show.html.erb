@@ -15,6 +15,12 @@
       <%= render 'product_details', product: @product %>
 
     </div>
+    <%= render 'review' %>
+    <h3 class="page-header"> Reviews: </h3>
+    <br/>
+    <% @reviews.each do |review| %>
+      <%= render 'rating', rating: review.rating, description: review.description, user: review.user_id, user_first_name: review.user.first_name, user_last_name: review.user.last_name, created_at: review.created_at  %>
+    <% end %>
 
   </article>
 
