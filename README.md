@@ -1,6 +1,6 @@
 # Jungle
 
-<center>:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</center>
+<p align="center">:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</p>
 
 ## Screenshots
 :point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:
