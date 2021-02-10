@@ -1,6 +1,6 @@
 # Jungle
 
-:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.:tiger2::snake::boar:
+:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:
 
 ## Screenshots
 :point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:
