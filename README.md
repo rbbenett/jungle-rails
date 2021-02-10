@@ -1,6 +1,6 @@
-<h1 align="center"> JUNGLE</h1>
+<h1 align="center"> :elephant::monkey::leopard:JUNGLE:tiger2::snake::boar:</h1>
 
-<p align="center">:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</p>
+<p align="center">:money_with_wings::money_with_wings::money_with_wings:A mini e-commerce application built with Rails 4.2.:money_with_wings::money_with_wings::money_with_wings:</p>
 
 <h2 align="center"> SCREENSHOTS</h2>
 <p align="center">:point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:</p>
