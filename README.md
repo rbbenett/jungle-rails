@@ -1,56 +1,56 @@
-# Jungle
+<p align="center"># Jungle</p>
 
 <p align="center">:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</p>
 
-## Screenshots
-:point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:
+<p align="center">## Screenshots
+<p align="center">:point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:</p>
 !["screenshot of main page"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Product_Index.png)
 
-:point_down::point_down::point_down:User Registration Page:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:User Registration Page:point_down::point_down::point_down:</p>
 !["screenshot of registration page"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Registration_Form.png)
 
-:point_down::point_down::point_down:User Login Page:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:User Login Page:point_down::point_down::point_down:</p>
 !["screenshot of login page"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Login_Form.png)
 
-:point_down::point_down::point_down:Main Page Showing Nav Bar With User Logged In:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Main Page Showing Nav Bar With User Logged In:point_down::point_down::point_down:</p>
 !["screenshot of main page with user logged in"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Nav_Bar_With_User.png)
 
-:point_down::point_down::point_down:Product Detail Page:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Product Detail Page:point_down::point_down::point_down:</p>
 !["screenshot of product detail page"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Product_Detail.png)
 
-:point_down::point_down::point_down:Product Review Form:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Product Review Form:point_down::point_down::point_down:</p>
 !["screenshot of product review form"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Product_Review_Form.png)
 
-:point_down::point_down::point_down:Product Review:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Product Review:point_down::point_down::point_down:</p>
 !["screenshot of product review"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Product_Review.png)
 
-:point_down::point_down::point_down:Sold Out Banner:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Sold Out Banner:point_down::point_down::point_down:</p>
 !["screenshot of sold out banner"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Sold_Out_Item.png)
 
-:point_down::point_down::point_down:Empty Cart Message:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Empty Cart Message:point_down::point_down::point_down:</p>
 !["screenshot of empty cart message"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Empty_Cart.png)
 
-:point_down::point_down::point_down:Cart With Item:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Cart With Item:point_down::point_down::point_down:</p>
 !["screenshot of cart with item"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Cart_With_Item.png)
 
-:point_down::point_down::point_down:Stripe Payment Form:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Stripe Payment Form:point_down::point_down::point_down:</p>
 !["screenshot of payment form"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Payment_Form.png)
 
-:point_down::point_down::point_down:Order Confirmation & Summary:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Order Confirmation & Summary:point_down::point_down::point_down:</p>
 !["screenshot of order summary"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Order_Summary.png)
 
-:point_down::point_down::point_down:Admin Dashboard:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Admin Dashboard:point_down::point_down::point_down:</p>
 !["screenshot of admin dashboard"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Admin_Dashboard.png)
 
-:point_down::point_down::point_down:Admin Products Page:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Admin Products Page:point_down::point_down::point_down:</p>
 !["screenshot of admin products"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Admin_Products.png)
 
-:point_down::point_down::point_down:Admin Sales Page:point_down::point_down::point_down:
+<p align="center">:point_down::point_down::point_down:Admin Sales Page:point_down::point_down::point_down:</p>
 !["screenshot of admin sales"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Admin_Sales.png)
 
 
 
-## Setup
+<p align="center">## Setup</p>
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
@@ -61,13 +61,13 @@
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
-## Stripe Testing
+<p align="center">## Stripe Testing</p>
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
-## Dependencies
+<p align="center">## Dependencies</p>
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
