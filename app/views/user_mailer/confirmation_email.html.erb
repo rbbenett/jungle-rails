@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>Thank you for order <%= @order.id %></h1>
+    <p>
+      Please note, All sales are final.
+      Your order details are as follows:
+      <% @order.line_items.each do |line_item| %>
+        <%= render 'item', product_id: line_item.product_id, line_total: line_item.total_price %>
+      <% end %>
+      Your order total: <%= humanized_money_with_symbol @order.total %>
+    </p>
+    <p>
+      To continue shopping, please return to Jungle <%= @url %>.
+    </p>
+    <p>Thanks for your purchase and have a great day!
+      <br/>
+      The team at
+      <br/><br/>
+      JUNGLE.
+    </p>
+  </body>
+</html>
