@@ -18,6 +18,7 @@ Rails.application.routes.draw do
     resources :products, except: [:edit, :update, :show]
     resources :categories, only: [:index, :new, :create]
     resources :sales, only: [:index, :new, :create]
+    get 'mailer(/:action(/:id(.:format)))' => 'mailer#:action'
   end
 
   get '/login' => 'sessions#new'
