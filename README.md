@@ -1,8 +1,8 @@
-<p align="center"># Jungle</p>
+# Jungle
 
 <p align="center">:elephant::monkey::leopard:A mini e-commerce application built with Rails 4.2.:tiger2::snake::boar:</p>
 
-<p align="center">## Screenshots
+## Screenshots
 <p align="center">:point_down::point_down::point_down:Home Page Showing Scrolling Sales Banner:point_down::point_down::point_down:</p>
 !["screenshot of main page"](https://raw.githubusercontent.com/rbbenett/jungle-rails/4a36e3cc223704dd6a85863ace6ffeb9f618802b/public/screenshots/Product_Index.png)
 
@@ -50,7 +50,7 @@
 
 
 
-<p align="center">## Setup</p>
+## Setup
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
@@ -61,13 +61,13 @@
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
-<p align="center">## Stripe Testing</p>
+## Stripe Testing
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
-<p align="center">## Dependencies</p>
+## Dependencies
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
