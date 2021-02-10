@@ -84,6 +84,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 <h2 align="center">DEPENDENCIES</h2>
 
-<p align="center">* Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)</p>
-<p align="center">* PostgreSQL 9.x</p>
-<p align="center">* Stripe</p>
+* Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
+* PostgreSQL 9.x
+* Stripe
